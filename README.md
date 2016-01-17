@@ -1,2 +1,2 @@
 # Python-Morse-Code-Converter
-Any conributions welcome! 
+Any contributions welcome! 
